@@ -3,6 +3,10 @@ This is a repo for doing advanced testing
 
 ## Setup Project
 
+AWS Code Build
+
+[![AWS Badge]]https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibklXQlgzcS83VGdrTDlhdDNhY043ZGNaaWRNRkF5dTU2NlY0aWcyWEk2K2QxKzIvVnJ4MS9xN0psL2RJbDE5UVZoSHU0NE14aUQwcE4vZTBwZURlanIwPSIsIml2UGFyYW1ldGVyU3BlYyI6IktrZGI1d0ViV3NBUG54elMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+
 1. Create and source virtualenv
 
 ```bash
